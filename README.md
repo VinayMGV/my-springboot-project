@@ -1,1 +1,1 @@
-my-springboot-project
+my-springboot-project contains DB connection, Hibernate, Kafka integration, microservices
